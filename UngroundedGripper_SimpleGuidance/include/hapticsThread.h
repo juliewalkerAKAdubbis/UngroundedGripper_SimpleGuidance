@@ -39,7 +39,6 @@ public:
 	int initialize(void);
 	int initializeChai3dStuff(void);
 	int setUpWorld(void);
-	int setUpODEWorld(void);
 	int setUpHapticDevice(void);
 	void setUpWidgets(void);
 
